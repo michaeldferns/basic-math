@@ -1,0 +1,26 @@
+{
+  "name": "@mferns/basic-math",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-detailed": "jest --verbose",
+    "test": "jest",
+    "lint": "./node_modules/prettier/bin-prettier.js . --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeldferns/simple-math.git"
+  },
+  "keywords": [],
+  "author": "Michael Ferns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaeldferns/basic-math/issues"
+  },
+  "homepage": "https://github.com/michaeldferns/basic-math#readme",
+  "devDependencies": {
+    "jest": "^27.2.0",
+    "prettier": "2.4.1"
+  }
+}
