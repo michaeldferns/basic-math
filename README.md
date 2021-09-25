@@ -130,7 +130,7 @@
 >
 > basicMath.squareRootToString("octal", 36) would return "0o6".
 
-## subtract
+## subtract - basicMath.subtract(...args)
 
 > The subtract function accepts a number of string or number inputs but expects at least two.
 >
